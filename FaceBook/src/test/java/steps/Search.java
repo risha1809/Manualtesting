@@ -41,7 +41,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
         @Then("^should be able to see all products related to that ProductType$")
         public void should_be_able_to_see_all_products_related_to_that_ProductType() throws Throwable {
-            System.out.println();
+            System.out.println("shasi");
         }
 
 
